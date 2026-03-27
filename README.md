@@ -1,4 +1,4 @@
-# BBR-Hybrid TCP for Android Kernel
+## BBR-Hybrid TCP for Android Kernel
 
 BBRHybrid is an enhanced TCP congestion control algorithm based on Google's BBR and BBRplus. This version is specifically tuned for online gaming and real-time interactive traffic on mobile SoCs (like Xiaomi's redwood).
 
