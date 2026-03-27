@@ -46,11 +46,10 @@ Installation
 
 **Step 1 — Apply the Patch**
 cd /path/to/kernel-root git apply path/to/bbr-hybrid.patch
-Salin kode
 
 **Step 2 — Defconfig Requirements**
 CONFIG_TCP_CONG_BBRHYBRID = y CONFIG_DEFAULT_BBRHYBRID = y CONFIG_NET_SCH_FQ = y
-Salin kode
+
 
 > Like standard BBR, BBRHybrid requires the fq (Fair Queue) pacing packet scheduler to function correctly.
 
