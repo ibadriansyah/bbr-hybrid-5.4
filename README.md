@@ -47,7 +47,8 @@ Installation
 **Step 1 — Apply the Patch**
 ------
 cd /path/to/kernel-root git apply path/to/bbr-hybrid.patch
-**# OR **
+
+## OR
 patch -p1 < bbrhybrid.patch
 ------
 **Step 2 — Defconfig Requirements**
