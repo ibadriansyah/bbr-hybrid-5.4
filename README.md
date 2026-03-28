@@ -1,10 +1,9 @@
 ## Attention
 - This is still under development
-==========
 
 
 ## BBR-Hybrid
-==========
+
 
 Enhanced TCP based on Google's BBR & BBRplus — tuned for online gaming and real-time traffic on mobile SoCs. Targets a stable flat-line ping by aggressively managing bufferbloat and RTT jitter.
 
